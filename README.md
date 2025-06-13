@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="assets/tela_inicial_dentalconnect.png" alt="Tela inicial do DentalConnect" width="400px">
+  <img src="dentalconnect.inicio.png" alt="Tela inicial do DentalConnect" width="400px">
   <img src="assets/tela_consulta_dentalconnect.png" alt="Tela de agendamento de consulta do DentalConnect" width="400px">
 </div>
 
