@@ -4,8 +4,11 @@
 
 <div align="center">
   
-  <img src="dentalconnect.inicio.png" alt="Tela inicial do DentalConnect" width="400px">
-  <img src="assets/tela_consulta_dentalconnect.png" alt="Tela de agendamento de consulta do DentalConnect" width="400px">
+  <img src="dentalconnect.inicio.png" alt="Tela inicial do DentalConnect" width="500px">
+  <img src="dentalconnect.home.png" alt="Tela Home do DentalConnect" width="500px">
+    <img src="dentalconnect.agendamentos.png" alt="Tela de agendamentos realizados do DentalConnect" width="500px">
+  <img src="dentalconnect.buscaavancada.png" alt="Tela de busca avançada do DentalConnect" width="500px">
+  
 </div>
 
 ---
